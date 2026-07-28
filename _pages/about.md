@@ -9,7 +9,7 @@ profile:
   image: lablogo-deeaap.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Room 214, NIMBB</p>
+    <p>Room 214, National Institute of Molecular Biology and Biotechnology</p>
     <p>University of the Philippines Diliman</p>
     <p>1101 Quezon City, Philippines</p>
 
